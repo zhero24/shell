@@ -1,9 +1,8 @@
 #!/bin/bash
-#
-# Author: LKJ
-# Date: 2013/5/14
-# Email: liungkejin@gmail.com
-#
+#介绍：显示系统时间，可以做屏保
+#作者：liungkejin@gmail.com
+#版本：1.0
+#发布时间：2013/5/14
 
 asciinumber=(
     '    .XEEEEb           ,:LHL          :LEEEEEG        .CNEEEEE8                bMNj       NHKKEEEEEX           1LEEE1    KEEEEEEEKNMHH       8EEEEEL.         cEEEEEO    '
